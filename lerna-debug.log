@@ -1,0 +1,10 @@
+0 silly argv { _: [ 'add' ],
+0 silly argv   globs: [],
+0 silly argv   lernaVersion: '3.15.0',
+0 silly argv   '$0': 'lerna',
+0 silly argv   pkg: 'ofx2json' }
+1 notice cli v3.15.0
+2 verbose rootPath /Users/guiseek/OpenSource/npm
+3 info versioning independent
+4 error Error: 404 Not Found - GET https://registry.npmjs.org/ofx2json - Not found
+4 error     at res.buffer.catch.then.body (/Users/guiseek/.config/yarn/global/node_modules/@evocateur/npm-registry-fetch/check-response.js:104:15)

@@ -1,0 +1,13 @@
+{
+  "name": "root",
+  "private": false,
+  "scripts": {
+    "start": "npm -C ./packages/ofx2json run start"
+  },
+  "devDependencies": {
+    "lerna": "^3.15.0"
+  },
+  "dependencies": {
+    "@guiseek/ofx2json": "file:packages/ofx2json"
+  }
+}
