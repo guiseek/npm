@@ -5,7 +5,7 @@
     "start": "npm -C ./packages/ofx2json run start"
   },
   "devDependencies": {
-    "lerna": "^3.15.0"
+    "lerna": "^6.4.1"
   },
   "dependencies": {
     "@guiseek/ofx2json": "file:packages/ofx2json"
